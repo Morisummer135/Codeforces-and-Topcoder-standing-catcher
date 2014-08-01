@@ -38,8 +38,8 @@ def Print():
 		print This
 
 
-contestId = "451"
-contestIdDiv1 = ""
+contestId = "454"
+contestIdDiv1 = "453"
 apiURLhead = "http://codeforces.com/api/contest.standings?showUnofficial=true&contestId="
 apiURLtail = "&handles="
 IDlist = open("idlistCF.txt")
